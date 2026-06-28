@@ -33,7 +33,7 @@
 
 # TÜRKÇE OSINT Rehberi!
 
-_Hazırlayan: OffensiveTR🥷🏿_
+
 
 
 **İstihbarat Döngüsü ve Uygulama Aşamaları**
