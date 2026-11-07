@@ -189,6 +189,7 @@ Sosyal medya profillerinden ve ağlarından (arkadaş listeleri, beğeniler, eti
 -   **Kullanıcı Adı Taraması:** `Sherlock`, `Maigret`, `WhatsMyName` (Kullanıcı adlarını birçok platformda tarar).
     
 -   **Twitter (X) Odaklı Analiz:** `Twint` (Gelişmiş Twitter veri çekme/arşivleme aracı), `Followerwonk` (Twitter biyografi analizi ve takipçi karşılaştırma).
+-   **Instagram Odaklı Analiz:** [IGDataHub](https://igdatahub.com/) (Herkese açık Instagram hesaplarının istatistikleri ve takipçi büyüme grafikleri).
     
 -   **Telefon Numarası Analizi:** `PhoneInfoga`, `GetContact`, `CallerID` (Telefon numarasından operatör, ülke ve sosyal medya bağlantılarını bulur).
     
